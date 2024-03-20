@@ -133,9 +133,9 @@ Phind - это поисковый движок, который позволяе�
 В целом, сочетание этих факторов делает Nginx популярным в Китае для обеспечения высокой производительности, надежности и безопасности веб-приложений и сервисов в условиях интенсивного интернет-трафика и специфических требований к интернет-инфраструктуре.
 
 ## Проведем анализ применимости веб-серверов с использованием phind.com:
-![Image alt]()
-![Image alt]()
-![Image alt]()
-![Image alt]()
-![Image alt]()
-![Image alt]()
+![Image alt](https://github.com/KDDasha/-1/blob/main/github1.png)
+![Image alt](https://github.com/KDDasha/-1/blob/main/github2.png)
+![Image alt](https://github.com/KDDasha/-1/blob/main/github3.png)
+![Image alt](https://github.com/KDDasha/-1/blob/main/github4.png)
+![Image alt](https://github.com/KDDasha/-1/blob/main/github5.png)
+![Image alt](https://github.com/KDDasha/-1/blob/main/github6.png)
