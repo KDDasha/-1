@@ -78,3 +78,4 @@ Phind - это поисковый движок, который позволяе�
 ## Проведем анализ применимости веб-серверов с использованием Google Trends: 
 ![Image alt](https://github.com/KDDasha/-1/blob/main/%D0%B3%D1%83%D0%B3%D0%BB%201.png)
 ![Image alt](https://github.com/KDDasha/-1/blob/main/%D0%B3%D1%83%D0%B3%D0%BB2.png)
+![Image alt](https://github.com/KDDasha/-1/blob/main/%D0%B3%D1%83%D0%B3%D0%BB3.png)
